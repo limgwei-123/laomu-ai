@@ -1,0 +1,39 @@
+[33mcommit 7f1dbf80b15bca07e110c37e47ce99333c9a4ab4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author:     G Wei Lim <limgwei24@gmail.com>
+AuthorDate: Sun Sep 7 23:09:56 2025 +0800
+Commit:     G Wei Lim <limgwei24@gmail.com>
+CommitDate: Sun Sep 7 23:09:56 2025 +0800
+
+    'update'
+
+[33mcommit 3ea40c6c43b252fe7620a3f9e9a7e1c6c7eb499c[m
+Author:     G Wei Lim <limgwei24@gmail.com>
+AuthorDate: Sun Sep 7 23:06:00 2025 +0800
+Commit:     G Wei Lim <limgwei24@gmail.com>
+CommitDate: Sun Sep 7 23:06:00 2025 +0800
+
+    email update
+
+[33mcommit 1b4773a4d8ca0f5ea10d8a46b2487b9a9a7a6ffe[m
+Author:     G Wei Lim <limgwei24@gmail.com>
+AuthorDate: Sun Sep 7 22:59:06 2025 +0800
+Commit:     G Wei Lim <limgwei24@gmail.com>
+CommitDate: Sun Sep 7 22:59:06 2025 +0800
+
+    'deep-learning-basic'
+
+[33mcommit b6f3f69afb036ab85ecbed4f8c0817895b851d4b[m
+Author:     G Wei Lim <limgwei24@gmail.com>
+AuthorDate: Sat Sep 6 18:10:08 2025 +0800
+Commit:     G Wei Lim <limgwei24@gmail.com>
+CommitDate: Sat Sep 6 18:10:08 2025 +0800
+
+    kaggle house predict
+
+[33mcommit ae5ca0e3116edb88bfec5de2bf3ce878c7518e31[m
+Author:     G Wei Lim <limgwei24@gmail.com>
+AuthorDate: Sat Sep 6 16:48:22 2025 +0800
+Commit:     G Wei Lim <limgwei24@gmail.com>
+CommitDate: Sat Sep 6 16:48:22 2025 +0800
+
+    add in regularization and dropout
